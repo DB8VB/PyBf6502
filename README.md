@@ -8,9 +8,9 @@ To translate Brainf\*ck code into 6502 assembly, run the following command:
 ```bash
 python3 PyBf6502.py example.bf
 ```
-This will create `example.asm`, an assembly file that can be compiled using CrossPy6502:
+This will create `example.asm`, an assembly file that can be compiled for the C64 using CrossPy6502:
 
 ```bash
-python3 main.py example.asm example.bin
+python3 main.py example.asm example.prg
 ```
 
