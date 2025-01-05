@@ -2,7 +2,7 @@
 
 Welcome to PyBf6502, a Brainf\*ck cross-compiler for the 6502 processor, developed in Python. This tool translates Brainf\*ck source code into 6502 assembly code compatible with the CrossPy6502 assembler (see For example:[https://github.com/DB8VB/crosspy6502](https://github.com/DB8VB/crosspy6502)). It also generates a BASIC stub, enabling the compiled file to run directly on a Commodore 64 (C64).
 
-##How to Use PyBf6502
+## How to Use PyBf6502
 
 To translate Brainf\*ck code into 6502 assembly, run the following command:
 ```bash
